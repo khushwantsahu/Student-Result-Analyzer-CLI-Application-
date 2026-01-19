@@ -1,1 +1,1 @@
-# Student-Result-Analyzer-CLI-Application-
+# Student-Result-Analyzer-CLI-Application
