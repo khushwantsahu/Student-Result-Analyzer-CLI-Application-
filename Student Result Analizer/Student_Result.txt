@@ -1,0 +1,5 @@
+{'roll_num': 101, 'name': 'khush', 'English': 89, 'Biology': 95, 'Chemistry': 85, 'Physics': 84, 'Hindi': 91, 'Percentage': 88.8, 'Grade': 'B'}
+{'roll_num': 102, 'name': 'khush', 'English': 89, 'Biology': 90, 'Chemistry': 89, 'Physics': 79, 'Hindi': 89, 'Percentage': 87.2, 'Grade': 'B'}
+{'roll_num': 103, 'name': 'rahul', 'English': 89, 'Biology': 89, 'Chemistry': 79, 'Physics': 80, 'Hindi': 89, 'Percentage': 85.2, 'Grade': 'B'}
+{'roll_num': 104, 'name': 'aman', 'English': 80, 'Biology': 90, 'Chemistry': 89, 'Physics': 88, 'Hindi': 95, 'Percentage': 88.4, 'Grade': 'B'}
+{'roll_num': 105, 'name': 'rani', 'English': 89, 'Biology': 70, 'Chemistry': 89, 'Physics': 79, 'Hindi': 80, 'Percentage': 81.39999999999999, 'Grade': 'B'}
