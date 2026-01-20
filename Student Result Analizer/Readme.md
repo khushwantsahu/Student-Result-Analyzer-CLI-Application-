@@ -1,4 +1,3 @@
-Readme
 Problem statement
 add the student detail (roll number , name , marks of 5 subject)
 calculate the percentage of student
@@ -23,3 +22,4 @@ day7/
 |-resultAnalizer.py
 |-student_Result.txt
 |-README.md
+
